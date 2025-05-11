@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Combining painting 'fads' and inventing paint schemes
 ---
 
