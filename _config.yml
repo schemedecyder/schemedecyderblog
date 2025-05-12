@@ -1,3 +1,4 @@
-theme: minima
 title: Scheme Decyder
 description: A miniature painting, RPG blog. Occasionally with some programming intersections.
+
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
