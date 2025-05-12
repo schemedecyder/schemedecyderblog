@@ -23,3 +23,9 @@ Disadvantages:
 So how can we combine this technique with others to reduce 
 
 The question always comes down to, is the additional time combining these techniques worth the outcome? The advantage of something like slapchop is the small number of steps, and sometimes using multiple techniques can be slower than just painting the model with a brush.
+
+Test model... Vipex, what I want to do.
+
+First I wanted to create the interesting underpainting using my airbrush. I decided on blue -> purple -> magenta shift because I already know that it looks good. I started with a black -> white zenithal, then, I started with my purple tone. I started with this because this was the main colour and I wanted to make sure I got the colour ratios right. I focused on the body and middle of the wings. I know that I wanted a full transition from magenta to blue on the wings. In addition, I also put purple on the mushrooms because I want them to be glowing. With the main colour you always want to cover more of the model than you think, because in the next steps the other colours will start to cover it up and tint it. The trick is creating a smooth gradient of the purple. I'd recommend using purple ink and adding some thinner. The magenta was focused on the head, as the main feature of the model and the tops of the wings. Blue was added to the 'boring' bits like the base and bottom of the model.
+
+Talk about using airbrush here. It's a bit funny that I'm using it only for the start of the model and not for the whole thing. Am I wasting time by needing to set it up and clean it? Would it be better just to spraypaint purple? (maybe this bit goes at end).
