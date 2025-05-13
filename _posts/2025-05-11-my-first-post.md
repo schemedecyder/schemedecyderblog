@@ -20,9 +20,9 @@ Disadvantages:
 ???:
 - Leaves a speckled textured finish
 
-So how can we combine this technique with others to reduce 
+So how can we maximise the benefits and reduce the downsides of this technique? My first thought is that sponging is good for models with two large surfaces of different colours. Airbrushes struggle with this because of the overspray, but sponges are a bit easier to control. With sponges it's hard to get in the recesses to get a solid base coat. However, what if we don't want a solid coat? Another speed painting technique is underpainting with interesting colours, then only painting highlights, leaving the recesses as the underpaint, reducing the amount of brushstrokes. Combining sponging over the top of this, the sponge won't apply paint to the recesses, leaving  the interesting undertone in the recesses. I tested this on a random model and you can see the results below.
 
-The question always comes down to, is the additional time combining these techniques worth the outcome? The advantage of something like slapchop is the small number of steps, and sometimes using multiple techniques can be slower than just painting the model with a brush.
+The question always comes down to, is the additional time combining these techniques worth the outcome? The advantage of something like slapchop is the small number of steps, and sometimes using multiple techniques can be slower than just painting the model with a brush. we shall see...
 
 Test model... Vipex, what I want to do.
 
